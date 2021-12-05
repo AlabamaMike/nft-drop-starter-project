@@ -4,7 +4,7 @@ import './CountdownTimer.css';
 const CountdownTimer = ({ dropDate }) => {
   // State
   const [timerString, setTimerString] = useState('');
-  
+
 // Our useEffect will run on comppnent load
 useEffect(() => {
     console.log('Setting interval...');
@@ -38,7 +38,7 @@ useEffect(() => {
         clearInterval(interval);
       }
     };
-  }, []);
+  });
   return (
     <div className="timer-container">
       <p className="timer-header">Candy Drop Starting In</p>
