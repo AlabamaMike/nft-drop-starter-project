@@ -1,0 +1,23 @@
+{
+    "name": "Larry NFT",
+    "symbol": "LRRY",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "collection": {
+        "name": "Stooge NFT",
+        "family": "Stooge"
+     },
+      "creators": [
+        {
+          "address": "C1TbSTsnjPqG4SWNPjXthbCYGNphQU2CAZqWenrQnjjM",
+          "share": 100
+        }
+      ]
+    }
+  }

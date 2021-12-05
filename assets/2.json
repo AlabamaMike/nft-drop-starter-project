@@ -1,0 +1,23 @@
+{
+    "name": "Curly NFT",
+    "symbol": "CRLY",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "collection": {
+        "name": "Stooge NFT",
+        "family": "Stooge"
+     },
+      "creators": [
+        {
+          "address": "C1TbSTsnjPqG4SWNPjXthbCYGNphQU2CAZqWenrQnjjM",
+          "share": 100
+        }
+      ]
+    }
+  }
