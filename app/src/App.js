@@ -68,8 +68,8 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header">🍭 Candy Drop</p>
-          <p className="sub-text">NFT drop machine with fair mint</p>
+          <p className="header">Stooge NFTs on SOL</p>
+          <p className="sub-text">Dropping Stooges on ya!</p>
           {/* Only show the Connect button if we're not connected */}
           {!walletAddress && renderNotConnectedContainer()}
         </div>
